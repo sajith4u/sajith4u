@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://sajithv.medium.com/](https://sajithv.medium.com/)
 
-- 💬 Ask me about **java, spring, hibernate , android, flutter**
+- 💬 Ask me about **java, spring, hibernate , android, flutter, AWS , K8**
 
 - 📫 How to reach me **sajith**
 
