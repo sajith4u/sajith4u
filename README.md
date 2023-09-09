@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Aws, K8, Go Lang, Nest js**
 
-- 👨‍💻 All of my projects are available at [https://www.sajithv.xyz/](https://www.sajithv.com/)
+- 👨‍💻 All of my projects are available at [https://www.sajithv.com/](https://www.sajithv.com/)
 
 - 📝 I regularly write articles on [https://sajithv.medium.com/](https://sajithv.medium.com/)
 
