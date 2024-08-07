@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sajith</h1>
 <h3 align="center">Technical Lead from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Aws, K8, Go Lang, Nest js**
+- 🌱 I’m currently learning **Aws, K8, Python, Nest js, dApps**
 
 - 👨‍💻 All of my projects are available at [https://www.sajithv.com/](https://www.sajithv.com/)
 
 - 📝 I regularly write articles on [https://sajithv.medium.com/](https://sajithv.medium.com/)
 
-- 💬 Ask me about **java, spring, hibernate , android, flutter, AWS , K8**
+- 💬 Ask me about **java, spring, python,  hibernate, AWS , K8**
 
 - 📫 How to reach me **sajith**
 
