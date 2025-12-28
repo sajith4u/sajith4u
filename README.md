@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sajith</h1>
 <h3 align="center">Technical Lead from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Aws, K8, Python, Nest js, dApps**
+- 🌱 I’m currently learning **Aws, K8, Python, Nest js, LangChain, GCP, LiveKit**
 
 - 👨‍💻 All of my projects are available at [https://www.sajithv.com/](https://www.sajithv.com/)
 
